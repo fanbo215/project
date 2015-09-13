@@ -1,6 +1,6 @@
 # Change Log
 
-### version 0.3.0
+### version 0.2.2
 * delete 无用的pod
 * 设置昵称时添加隐藏键盘功能
 * 调整曲线图高度
